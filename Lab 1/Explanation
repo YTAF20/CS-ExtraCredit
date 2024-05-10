@@ -1,0 +1,5 @@
+My approach for this problem was simply to make
+a bubble sort algorithm but instead of swapping
+we check if the current element plus the element we're
+checking adds up to our target then simply returning the 
+indexes of both numbers if they do

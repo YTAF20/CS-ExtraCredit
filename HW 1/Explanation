@@ -1,0 +1,3 @@
+For this problem what I did was first reverse the 
+string then after reversing checked if it was equal
+to the original string and if it was I returned True
