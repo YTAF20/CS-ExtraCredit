@@ -1,0 +1,7 @@
+def IsAnagram(s, t):
+     str1 = [c for c in s]
+     str2 = [c for c in t]
+     if(sorted(str1)== sorted(str2)):
+        return True
+     else:
+        return False

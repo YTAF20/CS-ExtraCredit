@@ -1,0 +1,4 @@
+For this problem my approach was to first convert
+the strings into character arrays then sort those arrays
+and if they were equal to eachother return true else
+return false
