@@ -1,0 +1,7 @@
+public static int firstBad(int[] n){
+    for(i = 0; i < n.length; i++){
+        if(n.isBadVersion(n[i])){
+            return i, n[i];
+        }
+    }
+}

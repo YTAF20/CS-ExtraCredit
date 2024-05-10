@@ -1,0 +1,4 @@
+For this problem I jus went through it linearly
+since if we do it through binary we might miss the first bad
+version and when it finds the first bad version it 
+just returns the index of it and the version itself
