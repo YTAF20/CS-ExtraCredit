@@ -3,8 +3,12 @@ Part 1:
     answer
     2.n^2(logn) is greater than 10nlogn as n^2 grows faster than n
     3. 
-    4.
+    4.(2^n)^2 should grow faster than 2^n
 Part 2:
-    Best Case:
-    Worst Case:
-    Average Case:
+    Best Case: O(1)
+    Worst Case: O(n)
+    Average Case: O(n)
+    Worst and average case occurs when the number is a prime number
+    greater than 2 because it will check if its divisible by every
+    number less than it up to n-1, but when it's 2 it'll jus return
+    true which is why best case is 1
