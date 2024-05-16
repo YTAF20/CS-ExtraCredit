@@ -2,7 +2,8 @@ Part 1:
     1.n^3 as the constant in front of n^2 has no real sway over our
     answer
     2.n^2(logn) is greater than 10nlogn as n^2 grows faster than n
-    3. 
+    3.n^logn should grow faster because even though logn grows a lot slower
+    than sqrt n the base is growing a lot faster than the constant 2
     4.(2^n)^2 should grow faster than 2^n
 Part 2:
     Best Case: O(1)
