@@ -10,6 +10,6 @@ Part 2:
     Worst Case: O(n)
     Average Case: O(n)
     Worst and average case occurs when the number is a prime number
-    greater than 2 because it will check if its divisible by every
-    number less than it up to n-1, but when it's 2 it'll jus return
-    true which is why best case is 1
+    greater than 2 because it will check if it is divisible by every
+    number less than it up to n-1, but when it's 2 it'll just return
+    true which is why the best case is 1
