@@ -1,0 +1,10 @@
+Part 1:
+    1.n^3 as the constant in front of n^2 has no real sway over our
+    answer
+    2.n^2(logn) is greater than 10nlogn as n^2 grows faster than n
+    3. 
+    4.
+Part 2:
+    Best Case:
+    Worst Case:
+    Average Case:
