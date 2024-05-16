@@ -1,0 +1,3 @@
+For matrix multiplication since there is a for loop
+nested in a for loop which is nested in another for loop
+the best worst and average case will be O(n^3) 

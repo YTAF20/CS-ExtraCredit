@@ -1,0 +1,6 @@
+1. Insertion sort has an average and worst case runtime of O(n^2)
+howver if the array that's being sorted is already sorted, the runtime
+will be O(n)
+2. The matrix multiplication pseudocode we're given has three for loops
+nested in eachother so best average and worst case runtime should
+be O(n^3)
