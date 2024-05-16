@@ -1,3 +1,27 @@
+1. Insertion Sort:
+    Best Case: O(n)
+    Average Case: O(n^2)
+    Worst Case: O(n^2)
+    for n
+      val 1
+      val 1
+      while n
+        val 1
+        val 1
+    The while loop will only run if theres something to sort
+    so when everything is in the correct position already the time
+    complexity is simply O(n) but if anything is unsorted and the
+    while laso has to run it becomes O(n^2)
+
+
+
+2. Matrix Multiplication
 For matrix multiplication since there is a for loop
 nested in a for loop which is nested in another for loop
-the best worst and average case will be O(n^3) 
+the best worst and average case will be O(n^3)
+for( value )  n
+  for( value ) n
+  sum 1
+    for( value ) n
+    sum 1
+this gets written as (n*n*n + 2) which is equal to O(n^3) and since the only way these for loops get avoided in the code is by throwing an error it will always be O(n^3)
